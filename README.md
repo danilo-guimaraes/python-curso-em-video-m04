@@ -1,40 +1,39 @@
-<div align="center">
+<h1 align="center">🐍 Python — Module 03: Composite Structures</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exercises-115%20accumulated-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certificate-40h%20issued-success?style=for-the-badge" />
+</p>
 
-# 🐍 Desafios de Python: Mundo 3 (Estruturas Compostas)
+---
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35"> <img src="https://img.shields.io/badge/ESTÁCIO-004A8F?style=for-the-badge" height="35"> <img src="https://img.shields.io/badge/ADS-00BFFF?style=for-the-badge" height="35"> <img src="https://img.shields.io/badge/MUNDO-3_CONCLUÍDO-228B22?style=for-the-badge" height="35">
+## 📌 About
 
-</div>
+Third and most complex module so far. The shift here was from writing scripts to building **organized, modular systems** — the foundation of real software engineering and ML pipelines.
 
-## 📝 Sobre este Repositório
+Certificate issued: **March 26, 2026** | Validation code: `3353-B2CB-3`
 
-Este repositório registra a minha evolução técnica no **Mundo 3** do Python. Aqui, o nível subiu para a **Engenharia de Software**: saí dos scripts de lógica simples para a construção de sistemas organizados, modulares e robustos. Este projeto é um pilar fundamental na minha graduação de **ADS na Estácio**, consolidando o conhecimento necessário para manipular grandes volumes de dados.
+## ✅ What I learned
 
-## 🚀 O que eu aprendi no Mundo 3:
+| Topic | Details |
+|---|---|
+| Composite structures | Advanced tuples, lists, and dictionaries |
+| Modularization | Organizing systems into modules and packages (`__init__.py`) |
+| Functions | Dynamic parameters, variable scope, return values |
+| Error handling | `try/except` for resilient software |
+| File persistence | Reading and writing to external `.txt` files |
 
-Até o exercício 115, concluí com sucesso:
+## 🏗️ Highlight: Modules & Packages
 
-* ✅ **Estruturas Compostas:** Domínio avançado de Tuplas, Listas e Dicionários.
-* ✅ **Modularização:** Organização de sistemas em módulos e pacotes (`__init__.py`).
-* ✅ **Funções (Def):** Uso de parâmetros dinâmicos, escopo de variáveis e retornos.
-* ✅ **Tratamento de Erros:** Implementação de `try/except` para resiliência do software.
-* ✅ **Persistência de Dados:** Leitura e escrita em arquivos externos (`.txt`).
+This module introduced real software architecture — splitting code into separate `.py` files, importing between them, and building a proper package structure. This is the direct foundation for working with frameworks like PyTorch and TensorFlow.
 
-## 📊 Status do Portfólio
+## 📊 Progress
 
-* **Exercícios realizados:** 115 (Acumulado M1 + M2 + M3).
-* **Fase atual:** Concluído (Certificado de 40h emitido em 26/03/2026).
-* **Código de Validação:** 3353-B2CB-3.
-* **Foco de Carreira:** Desenvolvedor Python / IA Engineer 🇺🇸 🇨🇦
+- **Exercises completed:** 115 (accumulated M1 + M2 + M3)
+- **Previous module:** [Control Flow — Module 02](https://github.com/danilo-guimaraes/Python-Mastery-Module-02-Control-Flow)
+- **Next module:** Module 04 — Object-Oriented Programming *(in progress)*
 
-## 👤 Autor
+## 👤 Author
 
-**Danilo Guimarães**
-
-* 🎓 Estudante de ADS - Estácio.
-* 👨‍👩‍👧‍👦 Foco: Construindo o futuro para Gael, Maria e Alice.
-* 💻 Stack: PyCharm Pro / Linux Mint / Git / Python 3.
-
-<div align="center">
-*Focado na transição para a área de TI e imigração para a América do Norte.* 🚀
-</div>
+**Danilo Guimarães** — ADS Student @ Estácio | Aspiring AI Engineer 🇨🇦
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloguimaraes-it/)
