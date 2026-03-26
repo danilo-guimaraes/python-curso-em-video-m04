@@ -30,7 +30,7 @@ This module introduced real software architecture — splitting code into separa
 ## 📊 Progress
 
 - **Exercises completed:** 115 (accumulated M1 + M2 + M3)
-- **Previous module:** [Control Flow — Module 02](https://github.com/danilo-guimaraes/Python-Mastery-Module-02-Control-Flow)
+- **Previous module:** [Control Flow — Module 02](https://github.com/danilo-guimaraes/python-curso-em-video-m02)
 - **Next module:** Module 04 — Object-Oriented Programming *(in progress)*
 
 ## 👤 Author
