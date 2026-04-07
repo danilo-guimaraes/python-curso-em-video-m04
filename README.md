@@ -1,7 +1,7 @@
 <h1 align="center">🐍 Python — Module 04: Object-Oriented Programming</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exercises-XX%20accumulated-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exercises-140+%20accumulated-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
 
