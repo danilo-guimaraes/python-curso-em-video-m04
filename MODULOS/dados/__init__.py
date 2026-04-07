@@ -1,3 +1,6 @@
+from MODULOS import interface
+
+
 def leiadinheiro(valor):
     valido = False
     while not valido:
