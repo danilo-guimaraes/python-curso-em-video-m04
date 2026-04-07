@@ -1,8 +1,0 @@
-danilo;28
-gael;5
-maria;3
-alice;7
-joao;8
-esthefany;25
-canha;56
-marlucia;56
